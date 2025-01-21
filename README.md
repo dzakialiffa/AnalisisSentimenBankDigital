@@ -66,12 +66,9 @@ Model **BERT** menunjukkan akurasi tinggi dalam analisis sentimen terhadap tiga 
 ## Kontribusi
 Kami sangat terbuka terhadap kontribusi untuk pengembangan proyek ini lebih lanjut. Silakan buat pull request atau buka issue jika ada saran atau perbaikan.
 
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
 ---
 
 ### Kontak
 Jika ada pertanyaan atau masukan, jangan ragu untuk menghubungi:
-- **Email**: dzakialifa.work@gmail.com
+- **Email**: dzakialiffa@gmail.com
 - **GitHub**: [dzakialiffa](https://github.com/dzakialiffa)
