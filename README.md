@@ -54,3 +54,31 @@ Analisis sentimen terhadap ulasan pengguna bank digital menggunakan model pre-tr
 ```python
 input_text = "Aplikasi ini sangat membantu!"
 predict_sentiment(input_text)  # Output: "Positif"
+
+## 📈 Sentiment Analysis Results
+
+1. 🏦 Seabank  
+**Model Accuracy**: 92%  
+**Sentiment Distribution**:  
+- Positif: 57.8%  
+- Negatif: 42.2%  
+**Wordcloud**:  
+
+---
+
+2. 🏦 Blu BCA  
+**Model Accuracy**: 89%  
+**Sentiment Distribution**:  
+- Positif: 48.3%  
+- Negatif: 51.7%  
+**Wordcloud**:  
+
+---
+
+3. 🏦 Bank Jago  
+**Model Accuracy**: 91%  
+**Sentiment Distribution**:  
+- Positif: 52.1%  
+- Negatif: 47.9%  
+**Wordcloud**:  
+
