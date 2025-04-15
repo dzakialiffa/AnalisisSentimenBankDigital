@@ -56,3 +56,48 @@ This project performs sentiment analysis on user reviews of digital banks using 
   ```python
   input_text = "This app is really helpful!"
   predict_sentiment(input_text)  # Output: "Positive"
+
+## 📈 Sentiment Analysis Results
+
+### 1. 🏦 Seabank  
+**Model Accuracy**: 92%  
+**Sentiment Distribution**:  
+- ✅ Positif: 57.8%  
+- ❌ Negatif: 42.2%  
+
+**Wordcloud**:  
+- **Positif**  
+  ![Seabank Positive Wordcloud](images/seabank_positive.png)  
+- **Negatif**  
+  ![Seabank Negative Wordcloud](images/seabank_negative.png)
+
+---
+
+### 2. 🏦 Blu BCA  
+**Model Accuracy**: 89%  
+**Sentiment Distribution**:  
+- ✅ Positif: 48.3%  
+- ❌ Negatif: 51.7%  
+
+**Wordcloud**:  
+- **Positif**  
+  ![Blu BCA Positive Wordcloud](images/blubca_positive.png)  
+- **Negatif**  
+  ![Blu BCA Negative Wordcloud](images/blubca_negative.png)
+
+---
+
+### 3. 🏦 Bank Jago  
+**Model Accuracy**: 91%  
+**Sentiment Distribution**:  
+- ✅ Positif: 52.1%  
+- ❌ Negatif: 47.9%  
+
+**Wordcloud**:  
+- **Positif**  
+  ![Bank Jago Positive Wordcloud](images/jago_positive.png)  
+- **Negatif**  
+  ![Bank Jago Negative Wordcloud](images/jago_negative.png)
+
+
+
